@@ -16,9 +16,9 @@
 ## `> cat about.txt`
 
 ```bash
-name     = "Mohammed Zeeshan"
-focus    = ["ML/AI", "Full-Stack"]
-status   = "Looking for internships"
+Name     = "Mohammed Zeeshan"
+Focus    = ["ML/AI", "Full-Stack"]
+Status   = "Looking for internships"
 ```
 
 ---
