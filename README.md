@@ -17,9 +17,7 @@
 
 ```bash
 name     = "Mohammed Zeeshan"
-degree   = "B.E. Artificial Intelligence & Machine Learning"
-batch    = 2027
-focus    = ["ML/AI", "Full-Stack", "Cybersecurity"]
+focus    = ["ML/AI", "Full-Stack"]
 status   = "Looking for internships"
 ```
 
@@ -74,7 +72,7 @@ Multilingual scam detector for SMS, WhatsApp and UPI payment requests. ML + full
 
 <div align="center">
 
-**Open to ML/AI, full-stack and cybersecurity internships.**
+**Open to ML/AI, full-stack internships.**
 
 <a href="https://www.linkedin.com/in/zeeshannmohammed"><img src="https://img.shields.io/badge/Connect-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
 
