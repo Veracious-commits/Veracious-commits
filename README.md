@@ -1,5 +1,4 @@
-<!-- Mohammed Zeeshan | GitHub Profile README -->
-
+<img src="./assets/zeeshan-mark.svg" width="112" alt="Z / DEV logo" />
 <div align="center">
 
 <img src="./assets/zeeshan-mark.svg" width="112" alt="Zeeshan's terminal identity mark" />
